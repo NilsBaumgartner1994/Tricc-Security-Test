@@ -1,0 +1,139 @@
+syntax = "proto2";
+
+package tricc;
+
+// Akteursliste für Datenverwaltung
+message Node {
+  required int32 id = 1;
+  optional string name = 3;
+  optional string identifier = 4;
+  optional string ipAddress = 5;
+
+  enum NodeType {
+    NULL = 0; // Null-wert Eintrag
+    Default = 1; // Default
+    RELAY = 2; // Relay-Knoten
+    KIT = 3; // Tricc-Kit-Knoten
+    BASE = 4; // Basisstation
+    EXT = 5; // Externe Eingabe/Basisstation
+    VIEW = 6; // Mobile Endgeräte
+  }
+  required NodeType nodetype = 2 [default = NULL];
+}
+
+message ConnectionMessage {
+  required Header header = 1;
+  //Ip des verbundenen TriccKits
+  required string triccKitIp = 4;
+  //OLSR IP des Access Points
+  required string relayOlsrIp = 5;
+
+  optional string triccKitId = 6;
+}
+
+
+// Zeitdatenstruktur
+message Time {
+  required int64 sec = 1;  //Sekunden seit Unix-Epoch (kodiert auch Tage)
+  optional int32 nano = 2;
+}
+
+// Nachrichten-Header
+message Header {
+  required int32 origin = 1; // Sendeakteurs-ID
+  optional string topic = 2; // Topic nur beim Abspeichern benötigt nicht für das Senden
+  optional Time time = 3; // Benötigt, aber optional implicit bei Erhalt bestimmbar
+}
+
+// Voraussichtlich nicht benötigter Nachrichtentyp für außerplanmäßige Nachrichten
+message MiscData {
+  required Header header = 1;
+
+  repeated string datastr = 10;
+  repeated bool databool = 11;
+  repeated int32 dataint = 12;
+  repeated int64 datalong = 13;
+  repeated float dataflt = 14;
+  repeated double datadbl = 15;
+}
+
+// Nachrichtentyp für Befehle
+message Command {
+  required Header header = 1;
+
+  required string command = 4;
+  optional string parameter = 5;
+}
+
+// Nachrichtentyp für Positionsdaten
+message PositionData {
+  required Header header = 1;
+
+  required float longitude = 5;
+  required float latitude = 6;
+  optional float altitude = 7;
+  optional float heading = 8;
+  optional Acceleration acceleration = 9;
+  optional Gyro gyro = 10;
+}
+
+// Wrapper message type for acceleration. Part of message PositionData
+message Acceleration {
+   optional float x = 1;
+   optional float y = 2;
+   optional float z = 3;
+}
+
+//Wrapper message for Gyroscope. Part of message PositionData
+message Gyro {
+   optional float x = 1;
+   optional float y = 2;
+   optional float z = 3;
+}
+
+// Nachrichtentyp für Tricckitdaten
+message KitData {
+  required Header header = 1;
+
+  optional PositionData pos = 4;
+}
+
+// Nachrichtentyp für Relay-Sensordaten
+message RelayData {
+  required Header header = 1;
+
+  required bool flame = 8;
+  required float temp = 9;
+  optional bool gas = 10;
+  optional PositionData pos = 4;
+}
+
+// Nachrichtentyp für Datenlisten
+message DataList {
+  required string listname = 1;
+  repeated Node nodes = 2;
+  repeated Command commands = 3;
+  repeated MiscData misc = 4;
+  repeated PositionData positions = 5;
+  repeated RelayData relays = 6;
+  repeated KitData kits = 7;
+}
+
+//Nachrichtentyp für die Antwort des Tricc-Kits auf Command Video an
+message VideoStreamStartCommand{
+	required Header header = 1;
+	optional string startCommand = 2;
+}
+
+
+
+message QueryServerInfo {
+    optional bool initialRegistration = 2;
+    optional Node nodeInfo = 3;
+}
+
+message ServerInfoResponse{
+    optional string identifier = 1;
+    optional int32 responseId = 2;
+    optional Time serverTime = 3;
+}

@@ -1,0 +1,1314 @@
+2017-12-06 14:31:43,056 - info_file_handler - INFO 
+Global Logger loaded
+2017-12-06 14:31:43,057 - info_file_handler - INFO 
+Packet Logger loaded
+2017-12-06 14:31:43,057 - info_file_handler - INFO 
+Error Logger loaded
+2017-12-06 14:31:43,058 - info_file_handler - INFO 
+Parsing Arguments
+2017-12-06 14:31:43,058 - info_file_handler - INFO 
+Application started with Arguments: Namespace(customfilter=None, dstip=None, dstmac=None, dstport=None, interface='en0', packets=None, pcapfile=None, protocol=None, srcip=None, srcmac=None, srcport=None)
+2017-12-06 14:31:43,058 - info_file_handler - INFO 
+Check all Requirements
+2017-12-06 14:31:43,059 - info_file_handler - INFO 
+Start Loggin
+2017-12-06 14:31:43,059 - info_file_handler - INFO 
+Starting decoding from Interface en0
+2017-12-06 14:31:43,099 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,101 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,519 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,522 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,525 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,528 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,530 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,532 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,534 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,536 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,539 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,540 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,543 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,545 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,547 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,549 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,552 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,555 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,558 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,560 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,561 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,562 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,563 - scapy.runtime - WARNING 
+DNS decompression loop detected
+2017-12-06 14:31:43,568 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,570 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,573 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,574 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,575 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,577 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,578 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,580 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,581 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,583 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,585 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,587 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,588 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,589 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,735 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,737 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,738 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,740 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,740 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,742 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:43,744 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:43,745 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,035 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,037 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,040 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,045 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,048 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,050 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,051 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,052 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,054 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,056 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,057 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,058 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,547 - scapy.runtime - WARNING 
+DNS decompression loop detected
+2017-12-06 14:31:44,550 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,553 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,555 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,557 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,562 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,564 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,567 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,569 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,572 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,574 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,576 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,578 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,688 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,689 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,691 - scapy.runtime - WARNING 
+more DNS decompression loop detected
+2017-12-06 14:31:44,692 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,694 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,695 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,696 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,697 - scapy.runtime - WARNING 
+DNS RR prematured end (ofs=39, len=2)
+2017-12-06 14:31:44,698 - scapy.runtime - WARNING 
+DNS RR prematured end (ofs=39, len=2)
+2017-12-06 14:31:44,699 - scapy.runtime - WARNING 
+more DNS RR prematured end (ofs=39, len=2)
+2017-12-06 14:31:44,701 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,703 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,705 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,707 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,708 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,709 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,711 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,712 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,713 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,715 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,717 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,718 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,719 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,720 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,724 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,725 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,726 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,728 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,729 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,732 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,734 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,736 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,757 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,760 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:44,762 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:44,763 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,063 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,067 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,069 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,070 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,073 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,075 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,077 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,078 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,570 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,573 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,576 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,578 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,580 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,582 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,586 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,587 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,589 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,591 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,592 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,594 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,595 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,596 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:45,601 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:45,603 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,053 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,056 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,058 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,060 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,063 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,065 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,069 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,070 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,072 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,074 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,078 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,080 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,083 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,085 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,090 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,092 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,092 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,093 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,095 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,096 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,098 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,099 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,100 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,101 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,104 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,106 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,109 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,111 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,113 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,115 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,119 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,121 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,123 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,125 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,126 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,130 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,133 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,136 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,138 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,139 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,141 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,143 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,145 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,152 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,233 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,236 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,238 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,240 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,242 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,243 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,245 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,246 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,251 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,256 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,258 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,259 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,260 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,261 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,262 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,263 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,267 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,270 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,273 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,275 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,280 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,281 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,283 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,286 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,288 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,290 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,293 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,296 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,299 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,301 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,303 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,304 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,305 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,305 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,307 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,309 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,311 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,317 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,320 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,321 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,323 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,324 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,599 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,605 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:46,610 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:46,611 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,112 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,116 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,118 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,119 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,120 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,121 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,124 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,125 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,127 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,129 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,130 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,131 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,137 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,139 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,143 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,145 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,146 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,148 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,150 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,153 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,154 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,156 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,157 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,158 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,160 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,161 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,165 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,167 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,169 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,170 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,171 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,172 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,173 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,174 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,177 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,178 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,180 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,185 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,303 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,306 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,308 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,309 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,311 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,312 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,313 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,315 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,316 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,317 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,319 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,323 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,326 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,328 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,331 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,334 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,339 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,340 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,342 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,343 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,345 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,346 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,348 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,349 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,351 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,352 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,361 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,362 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,364 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,366 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,379 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,385 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,389 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,392 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,405 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,407 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,490 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,493 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,619 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,621 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,624 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,627 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,631 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,632 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,634 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,635 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,638 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,641 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,646 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,648 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,850 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,852 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:47,902 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:47,903 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,069 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,072 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,076 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,078 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,130 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,133 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,137 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,139 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,141 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,143 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,145 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,146 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,150 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,157 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,654 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,659 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,673 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,680 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,682 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,682 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,684 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,685 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,687 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,689 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:48,691 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:48,693 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,156 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,159 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,162 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,165 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,167 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,169 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,170 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,172 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,173 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,174 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,175 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,176 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,177 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,178 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,179 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,182 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,184 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,185 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,187 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,188 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,189 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,190 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,192 - scapy.runtime - WARNING 
+DNS decompression loop detected
+2017-12-06 14:31:49,196 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,197 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,202 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,204 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,208 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,209 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,210 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,211 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,213 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,214 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,216 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,217 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,233 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,239 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,244 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,244 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,246 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,249 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,660 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,663 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,666 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,668 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,671 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,673 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,675 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,677 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,679 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,681 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,683 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,686 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,689 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,692 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,694 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,696 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,699 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,701 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,703 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,706 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,707 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,709 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,710 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,712 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,715 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,716 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,720 - scapy.runtime - WARNING 
+DNS RR prematured end (ofs=93, len=49)
+2017-12-06 14:31:49,721 - scapy.runtime - WARNING 
+DNS RR prematured end (ofs=93, len=44)
+2017-12-06 14:31:49,723 - scapy.runtime - WARNING 
+more DNS RR prematured end (ofs=104, len=49)
+2017-12-06 14:31:49,729 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,732 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,734 - scapy.runtime - WARNING 
+DNS decompression loop detected
+2017-12-06 14:31:49,735 - scapy.runtime - WARNING 
+more DNS decompression loop detected
+2017-12-06 14:31:49,737 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,738 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,741 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,743 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,744 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,745 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,748 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,749 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,764 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,774 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,784 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,791 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,793 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,794 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,797 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,798 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,801 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,805 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,806 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,807 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,809 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,810 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,811 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,813 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,815 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,817 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,820 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,822 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,823 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,824 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,826 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,827 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,828 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,829 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,831 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,832 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,837 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,838 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,839 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,841 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,843 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,844 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,846 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,850 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,852 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,854 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,882 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,889 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,920 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,927 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,955 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,959 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,961 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,962 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,964 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,968 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,973 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,974 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,975 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,976 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,976 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,977 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,978 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,979 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,979 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,980 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,981 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,982 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,983 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,984 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,989 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,991 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,993 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,994 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:49,995 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:49,996 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,180 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,183 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,204 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,210 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,213 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,214 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,218 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,219 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,224 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,226 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,227 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,228 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,229 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,231 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,232 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,234 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,236 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,237 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,240 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,240 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,242 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,243 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,245 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,247 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,248 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,251 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,252 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,254 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,255 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,257 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,258 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,259 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,262 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,263 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,266 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,266 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,271 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,274 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,275 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,276 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,277 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,278 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,281 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,283 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,287 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,289 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,366 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,367 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,454 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,455 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,579 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,581 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,693 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,694 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:50,695 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:50,697 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,203 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,206 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,208 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,210 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,212 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,214 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,216 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,218 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,224 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,227 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,230 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,231 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,232 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,233 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,235 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,236 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,238 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,239 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,240 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,242 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,243 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,247 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,248 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,249 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,250 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,253 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,257 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,260 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,715 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,718 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,721 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,724 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,726 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,727 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,730 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,732 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,734 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,736 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,863 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,865 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,870 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,872 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,873 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,875 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,877 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,878 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,888 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,890 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,893 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,895 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,906 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,908 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,921 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,924 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,926 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,927 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,958 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,960 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,961 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,962 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:51,963 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:51,964 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,025 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,026 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,028 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,029 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,070 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,072 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,227 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,233 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,330 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,333 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,346 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,347 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,371 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,374 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,449 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,452 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,537 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,540 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,543 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,546 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,738 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,740 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,742 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,745 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,747 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,748 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,842 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,845 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,847 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,851 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,853 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,854 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,873 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,879 - packet_file_handler - INFO 
+None
+2017-12-06 14:31:52,882 - info_file_handler - INFO 
+Found a Package
+2017-12-06 14:31:52,883 - packet_file_handler - INFO 
+None
+2017-12-06 14:37:07,095 - info_file_handler - INFO 
+Global Logger loaded
+2017-12-06 14:37:07,095 - info_file_handler - INFO 
+Packet Logger loaded
+2017-12-06 14:37:07,096 - info_file_handler - INFO 
+Error Logger loaded
+2017-12-06 14:37:07,096 - info_file_handler - INFO 
+Parsing Arguments
+2017-12-06 14:37:07,097 - info_file_handler - INFO 
+Application started with Arguments: Namespace(customfilter=None, dstip=None, dstmac=None, dstport=None, interface='en0', packets=None, pcapfile=None, protocol=None, srcip=None, srcmac=None, srcport=None)
+2017-12-06 14:37:07,097 - info_file_handler - INFO 
+Check all Requirements
+2017-12-06 14:37:07,098 - info_file_handler - INFO 
+Start Loggin
